@@ -1,1 +1,0 @@
-# Finding-an-Outlier
